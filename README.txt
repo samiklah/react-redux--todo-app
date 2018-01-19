@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/iamjoshellis/pen/zBjEpL.
+
+ Been doing @wesbos React and ES6 courses and Dan Abramov Redux course over on https://egghead.io/, so I figuired what the world needed was another todo app...
